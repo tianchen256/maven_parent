@@ -14,7 +14,5 @@ public class Demo1 {
         System.out.println("我做了一些修改");
         System.out.println("我做了一些修改");
         System.out.println("我做了一些修改");
-        System.out.println("我做了一些修改");
-        System.out.println("我做了一些修改");
     }
 }
