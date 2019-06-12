@@ -12,9 +12,7 @@ public class Demo1 {
         // 这个是源代码,盗版必究
         System.out.println("我做了一些修改");
         System.out.println("我做了一些修改");
-        System.out.println("我做了一些修改");
-        System.out.println("我做了一些修改");
-        System.out.println("我做了一些修改");
-        System.out.println("我做了一些修改");
+        System.out.println("我又做了一些修改");
+        System.out.println("我又做了一些修改");
     }
 }
